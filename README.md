@@ -1,6 +1,6 @@
 # Network-Predicted Hovercraft Movement Component (HMC)
 
-[![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5.4+-blue.svg?logo=unrealengine)](https://www.unrealengine.com/)
+[![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5.8-blue.svg?logo=unrealengine)](https://www.unrealengine.com/)
 [![Language](https://img.shields.io/badge/Language-C%2B%2B%20%26%20Blueprints-orange.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
