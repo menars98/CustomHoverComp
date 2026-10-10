@@ -13,10 +13,11 @@ Built by extending `UCharacterMovementComponent` (CMC), this framework solves th
 ## 🎮 Video Showcases & Latency Stress Tests
 
 ### 1. Average Network Conditions (Smooth Prediction & Drift)
-https://github.com/menars98/CustomHoverComp/raw/main/Plugins/HoverMovement/Resources/Avarage.mp4
+https://github.com/user-attachments/assets/43d89a1b-4b81-46b2-9bb0-b83850c69cd6
+
 
 ### 2. Extreme Network Conditions (High Jitter & Packet Loss Stress Test)
-https://github.com/menars98/CustomHoverComp/raw/main/Plugins/HoverMovement/Resources/BADBAD.mp4
+https://github.com/user-attachments/assets/e45d5ee9-3f71-4efd-90e8-25a1359efef0
 
 ---
 
